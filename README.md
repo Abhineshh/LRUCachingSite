@@ -4,7 +4,7 @@ The Repo Contains React and golang file implementing LRU [Least Recently Used] t
 
 The React app consumes the API's that implement LRU.
 
-The LRU itself is implement in the backend using golang and gorilla-mux.
+The LRU itself is implemented in the backend using golang and gorilla-mux.
 
 #Usage
 
