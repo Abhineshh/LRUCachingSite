@@ -18,7 +18,7 @@ The LRU itself is implemented in the backend using golang and gorilla-mux.
 
 1) Install the required dependencies for the project by running `go mod tidy`
 
-2)run `go run main.go` command in the root directory to start the Go-Server
+2) run `go run main.go` command in the root directory to start the Go-Server
 
   ### or
 
