@@ -10,12 +10,16 @@ The LRU itself is implemented in the backend using golang and gorilla-mux.
 
 ## Running the React-app
 
-run `npm start` command in the root directory to start the React app
+1) Install the required dependencies for the project by running `npm init`
+
+2) run `npm start` command in the root directory to start the React app
 
 ## Running the Go-Server
 
-run `go run main.go` command in the root directory to start the Go-Server
+1) Install the required dependencies for the project by running `go mod tidy`
 
-### or
+2)run `go run main.go` command in the root directory to start the Go-Server
 
-run `go run .` command in the root directory.
+  ### or
+
+  run `go run .` command in the root directory.
